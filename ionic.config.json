@@ -1,5 +1,7 @@
 {
   "name": "cupertino-pane-starter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
